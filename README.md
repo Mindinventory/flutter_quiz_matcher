@@ -4,9 +4,9 @@ Flutter Quiz Matcher package offers a seamless solution for developers to implem
 # Screen Shots
 <table>
   <tr>
-    <td>![screenshot](http://url/to/img.png)</td>
-    <td>![screenshot](http://url/to/img.png)</td>
-    <td>![screenshot](http://url/to/img.png)</td>
+    <td>![screenshot](https://github.com/mi-raj04/flutter_quiz_matcher/blob/main/screenshots/img_one.png)</td>
+    <td>![screenshot](https://github.com/mi-raj04/flutter_quiz_matcher/blob/main/screenshots/img_two.png)</td>
+    <td>![screenshot]([http://url/to/img.png](https://github.com/mi-raj04/flutter_quiz_matcher/blob/main/screenshots/img_three.png))</td>
   </tr>
  </table>
 
