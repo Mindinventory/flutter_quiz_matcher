@@ -4,9 +4,9 @@ Flutter Quiz Matcher package offers a seamless solution for developers to implem
 # Screen Shots
 <table>
   <tr>
-    <td><img src="screenshots/img_one.png"></td>
-    <td><img src="screenshots/img_two.png"></td>
     <td><img src="screenshots/img_three.png"></td>
+    <td><img src="screenshots/img_two.png"></td>
+    <td><img src="screenshots/img_one.png"></td>
   </tr>
  </table>
 
