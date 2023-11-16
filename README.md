@@ -4,7 +4,8 @@ Flutter Quiz Matcher package offers a seamless solution for developers to implem
 # Screen Shots
 <table>
   <tr>
-    <td>![screenshot](https://github.com/mi-raj04/flutter_quiz_matcher/blob/main/screenshots/img_one.png)</td>
+    <td>![alt text](https://github.com/mi-raj04/flutter_quiz_matcher/blob/main/screenshots/img_two.png?raw=true)
+</td>
     <td>![screenshot](https://github.com/mi-raj04/flutter_quiz_matcher/blob/main/screenshots/img_two.png)</td>
     <td>![screenshot]([http://url/to/img.png](https://github.com/mi-raj04/flutter_quiz_matcher/blob/main/screenshots/img_three.png))</td>
   </tr>
@@ -81,7 +82,7 @@ It would be great for us if the reporter can share the below things to understan
 - Screenshot/video with steps to reproduce the issue
 
 # LICENSE!
-Flutter Drag and Match with Gesture Detection is [MIT-licensed](https://github.com/Mindinventory/flutter_draggable_gridview/blob/main/LICENSE "MIT-licensed").
+Flutter Quiz Matcher is [MIT-licensed](https://github.com/Mindinventory/flutter_draggable_gridview/blob/main/LICENSE "MIT-licensed").
 
 # Let us know!
 We’d be really happy if you send us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
