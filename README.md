@@ -1,4 +1,26 @@
 # Flutter Quiz Matcher
+
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/flutter-website-deepskyblue.svg" alt="Flutter Website"></a>
+<a href="https://dart.dev"><img src="https://img.shields.io/badge/dart-website-deepskyblue.svg" alt="Dart Website"></a>
+<a href="https://developer.android.com" style="pointer-events: stroke;" target="_blank">
+<img src="https://img.shields.io/badge/platform-Android-deepskyblue">
+</a>
+<a href="https://developer.apple.com/ios/" style="pointer-events: stroke;" target="_blank">
+<img src="https://img.shields.io/badge/platform-iOS-deepskyblue">
+</a>
+<a href="" style="pointer-events: stroke;" target="_blank">
+<img src="https://img.shields.io/badge/platform-Web-deepskyblue">
+</a>
+<a href="" style="pointer-events: stroke;" target="_blank">
+<img src="https://img.shields.io/badge/platform-Mac-deepskyblue">
+</a>
+<a href="" style="pointer-events: stroke;" target="_blank">
+<img src="https://img.shields.io/badge/platform-Linux-deepskyblue">
+</a>
+<a href="" style="pointer-events: stroke;" target="_blank">
+<img src="https://img.shields.io/badge/platform-Windows-deepskyblue">
+</a>
+
 Flutter Quiz Matcher package offers a seamless solution for developers to implement engaging drag-and-match functionality in their Flutter applications. Enhanced with gesture detection, users can intuitively match items through drag-and-drop interactions. What sets this package apart is its unique feature of drawing dynamic lines between matched widgets, providing a visually appealing and interactive experience.
 
 # Screen Shots
