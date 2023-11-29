@@ -87,7 +87,7 @@ dependencies:
           print(userAnswers.questionIndex);
           print(userAnswers.questionAnswer);
         },
-        paddingAround: EdgeInsets.all(8),
+        paddingAround: const EdgeInsets.all(8),
       );
 ```
 
