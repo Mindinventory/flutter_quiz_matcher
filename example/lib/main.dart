@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_quiz_matcher/flutter_quiz_matcher.dart';
 import 'package:flutter_quiz_matcher/models/model.dart';
@@ -14,10 +15,10 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  @override
   List<String> listImagesLocations = ['assets/images/bell.png', 'assets/images/book.png', 'assets/images/home.png', 'assets/images/google.jpeg'];
   List<String> listAnswer = ['bell', 'book', 'home', 'google'];
 
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter picture matching package',
@@ -87,10 +88,14 @@ class _MyAppState extends State<MyApp> {
         incorrectLineColor: Colors.red,
         drawingLineColor: Colors.black,
         onScoreUpdated: (UserScore userAnswers) {
-          print(userAnswers.questionIndex);
-          print(userAnswers.questionAnswer);
+          if (kDebugMode) {
+            print(userAnswers.questionIndex);
+          }
+          if (kDebugMode) {
+            print(userAnswers.questionAnswer);
+          }
         },
-        paddingAround: EdgeInsets.all(8),
+        paddingAround: const EdgeInsets.all(8),
       ),
     );
   }

@@ -9,7 +9,7 @@ import 'models/model.dart';
 typedef OnScoreUpdate = void Function(UserScore userAnswers);
 
 class QuizMatcher extends StatefulWidget {
-  QuizMatcher(
+  const QuizMatcher(
       {super.key,
       required this.questions,
       required this.answers,

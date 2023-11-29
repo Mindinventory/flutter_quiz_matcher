@@ -1,6 +1,7 @@
 name: flutter_quiz_matcher
 description: A new Flutter project.
 version: 0.0.1
+repository: https://github.com/mi-raj04/flutter_quiz_matcher.git
 homepage:
 
 environment:
